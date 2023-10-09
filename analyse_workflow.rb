@@ -1,4 +1,4 @@
-#! /snap/bin/ruby
+#!/usr/bin/env ruby
 
 def avg_duration(workflow)
   runs = successful_runs(workflow)
